@@ -70,8 +70,7 @@ Aplikasi web ini dibangun menggunakan teknologi modern berbasis client-side yang
 
 - **UI Framework & Rendering:** React (v18.3.1), HTML5, JavaScript (ES6+ Module)
 - **Styling Engine:** Tailwind CSS & Glassmorphism Design System
-- **Typography & Fonts:** Google Fonts (*Proza Libre, Merriweather, Oswald, Bebas Neue, Abril Fatface, Noto Sans Javanese*) & Font Lokal Optimistic AI
-- **Icons:** Lucide React Icon Library
+- **Typography & Fonts:** Google Fonts
 - **Deployment:** GitHub Pages / Static Web Hosting
 
 ---
@@ -79,4 +78,4 @@ Aplikasi web ini dibangun menggunakan teknologi modern berbasis client-side yang
 ## 📄 Lisensi & Hak Cipta
 
 © **2026 Kandangjago Jawa | ꦏꦟ꧀ꦝꦔ꧀ꦗꦒꦺꦴꦗꦮ**  
-*Dikembangkan dengan semangat nguri-uri budaya di Daerah Istimewa Yogyakarta untuk Nusantara.*
+*Dikembangkan dengan semangat nguri-uri budaya di Daerah Istimewa Yogyakarta untuk Nusantara. Dari KANDANGJAGO untuk Nusantara.*
