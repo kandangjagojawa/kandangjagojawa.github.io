@@ -7,13 +7,13 @@
 
 ## 📌 Tentang Platform
 
-**Kandangjago Jawa** adalah sebuah ekosistem digital berbasis web yang didedikasikan untuk melestarikan serta mengenalkan kembali kearifan lokal Jawa melalui pemanfaatan teknologi modern. Platform ini menghadirkan berbagai produk interaktif gratis—mulai dari aplikasi transliterasi, permainan edukatif, kamus digital, hingga utilitas budaya—yang dirancang agar relevan, inklusif, dan mudah diakses oleh berbagai kalangan masyarakat.
+**Kandangjago Jawa** adalah sebuah ekosistem digital berbasis web yang didedikasikan untuk melestarikan serta mengenalkan kembali kearifan lokal Jawa melalui pemanfaatan teknologi modern. Platform ini menghadirkan berbagai produk interaktif gratis, mulai dari aplikasi transliterasi, permainan edukatif, kamus digital, hingga utilitas budaya, yang dirancang agar relevan, inklusif, dan mudah diakses oleh berbagai kalangan masyarakat.
 
 ---
 
 ## 🗂️ Kategori & Koleksi Karya Digital
 
-Ekosistem Kandangjago Jawa memuat **33 karya digital interaktif** yang terbagi dalam **6 kategori utama**:
+Saat ini ekosistem Kandangjago Jawa memuat **33 karya digital interaktif** yang terbagi dalam **6 kategori utama**:
 
 ### 1. ✍️ Tata Tulis, Alih-Aksara, & Transliterasi (`tata-tulis`)
 Aplikasi standar dan alat bantu digital untuk konversi serta pemahaman tata tulis Aksara Jawa dan Kawi sesuai paugeran (kaidah):
