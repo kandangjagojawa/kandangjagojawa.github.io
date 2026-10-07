@@ -78,4 +78,5 @@ Aplikasi web ini dibangun menggunakan teknologi modern berbasis client-side yang
 ## 📄 Lisensi & Hak Cipta
 
 © **2026 Kandangjago Jawa | ꦏꦟ꧀ꦝꦔ꧀ꦗꦒꦺꦴꦗꦮ**  
-*Dikembangkan dengan semangat nguri-uri budaya di Daerah Istimewa Yogyakarta untuk Nusantara. Dari KANDANGJAGO untuk Nusantara.*
+*Dikembangkan dengan semangat nguri-uri budaya di Daerah Istimewa Yogyakarta untuk Nusantara.*
+*Dari KANDANGJAGO untuk Nusantara.*
