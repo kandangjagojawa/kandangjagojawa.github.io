@@ -15,7 +15,7 @@
 
 Saat ini ekosistem Kandangjago Jawa memuat **33 karya digital interaktif** yang terbagi dalam **6 kategori utama**:
 
-### 1. ✍️ Tata Tulis, Alih-Aksara, & Transliterasi (`tata-tulis`)
+### 1. ✍️ Tata Tulis, Alih-Aksara, & Transliterasi
 Aplikasi standar dan alat bantu digital untuk konversi serta pemahaman tata tulis Aksara Jawa dan Kawi sesuai paugeran (kaidah):
 *   **Paugeran Sriwedari** — Transliterasi huruf Latin ke Aksara Jawa berdasarkan standar klasik Solo (Sriwedari 1926).
 *   **Paugeran KBJ** — Transliterasi Latin ke Aksara Jawa sesuai standar resmi Kongres Bahasa Jawa Malang 1996 (SKB 3 Gubernur).
@@ -26,7 +26,7 @@ Aplikasi standar dan alat bantu digital untuk konversi serta pemahaman tata tuli
 *   **Pitutur Aksara Jawa** — Koleksi falsafah dan pesan bijak Jawa yang disajikan dalam 3 tata tulis aksara sekaligus.
 *   **Uji Imbuhan (Afiksasi) Sriwedari & KBJ** — Laboratorium visual afiksasi kata dasar dengan gabungan awalan/akhiran Jawa.
 
-### 2. 🎯 Permainan Edukatif Aksara Jawa (`aksara-jawa`)
+### 2. 🎯 Permainan Edukatif Aksara Jawa
 Rangkaian gim interaktif untuk melatih ingatan, ketangkasan, dan pemahaman Aksara Jawa:
 *   **Hapalan Aksara Jawa** — Game tembak aksara interaktif untuk pemula.
 *   **Menghapal Pasangan Aksara Jawa** — Game khusus untuk menguasai bentuk dan aturan *pasangan* Aksara Jawa.
@@ -43,23 +43,23 @@ Rangkaian gim interaktif untuk melatih ingatan, ketangkasan, dan pemahaman Aksar
 *   **TTS Aksara Jawa** — Teka-teki silang dengan *keyboard* Aksara Jawa khusus.
 *   **Cari Kata** — Permainan pencarian kata Indonesia berbasis grid susunan Aksara Jawa.
 
-### 3. 📜 Permainan Edukatif Aksara Kawi (`aksara-kawi`)
+### 3. 📜 Permainan Edukatif Aksara Kawi
 *   **Hapalan Aksara Kawi** — Gim edukasi menghafal huruf Aksara Kawi kuno.
 *   **Menghapal Pasangan Kawi** — Tantangan tingkat lanjut untuk menguasai pasangan Aksara Kawi.
 
-### 4. 📚 Bahasa & Budaya (`bahasa-budaya`)
+### 4. 📚 Bahasa & Budaya
 *   **Bahasa Walikan (Walikan Djokja)** — Kamus & penerjemah *Basa Walikan* (bahasa terbalik) khas Yogyakarta.
 *   **Pitutur Jawa** — Direktori pepatah, *paribasan*, dan nilai-nilai kehidupan Jawa.
 *   **Kamus Web Jawa** — Kamus pencarian kosakata Indonesia-Jawa dan sebaliknya (A–Z).
 *   **Kamus Lengkap Digital** — Mesin pencari dari 3 database kamus bahasa Jawa sekaligus (Ngoko hingga Krama Inggil).
 
-### 5. ☕ Permainan Waktu Luang (`waktu-luang`)
+### 5. ☕ Permainan Waktu Luang
 *   **KTP Digital Jawa** — Generator KTP versi Jawa dengan nama dan estetika tradisional.
 *   **Sang Juru Waca Watak** — Tafsir watak dan kecocokan jodoh berbasis primbon Jawa.
 *   **Prasasti Titisan / Titisan Tokoh** — Penafsir identitas figur/tokoh historis yang merepresentasikan karakter diri.
 *   **Takdir Kraton** — Roda takdir simulasi peran/profesi pada era kerajaan kuno Nusantara.
 
-### 6. 💼 Bisnis Edukatif (`bisnis`)
+### 6. 💼 Bisnis Edukatif
 *   **Nota UMKM Aksara Jawa** — Alat bantu pembuat bukti transaksi/nota penjualan untuk UMKM dengan sentuhan hiasan Aksara Jawa.
 
 ---
