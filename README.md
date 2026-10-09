@@ -28,7 +28,7 @@ Aplikasi standar dan alat bantu digital untuk konversi serta pemahaman tata tuli
 *   **Eksplorasi Aksara Jawa, JGST & IPA** — Aplikasi huruf Latin sebagai panduan pengetikan harmonis 5 tata tulis aksara Jawa.
 
 ### 2. 🎯 Permainan Edukatif Aksara Jawa
-Rangkaian gim interaktif untuk melatih ingatan, ketangkasan, dan pemahaman Aksara Jawa:
+Rangkaian permainan interaktif untuk melatih ingatan, ketangkasan, dan pemahaman Aksara Jawa:
 *   **Hapalan Aksara Jawa** — Game tembak aksara interaktif untuk pemula.
 *   **Menghapal Pasangan Aksara Jawa** — Game khusus untuk menguasai bentuk dan aturan *pasangan* Aksara Jawa.
 *   **Pasar Aksara** — Simulasi belajar Aksara Jawa dalam konteks transaksi pasar tradisional.
