@@ -13,7 +13,7 @@
 
 ## 🗂️ Kategori & Koleksi Karya Digital
 
-Saat ini ekosistem Kandangjago Jawa memuat **33 karya digital interaktif** yang terbagi dalam **6 kategori utama**:
+Saat ini ekosistem Kandangjago Jawa memuat **34 karya digital interaktif** yang terbagi dalam **6 kategori utama**:
 
 ### 1. ✍️ Tata Tulis, Alih-Aksara, & Transliterasi
 Aplikasi standar dan alat bantu digital untuk konversi serta pemahaman tata tulis Aksara Jawa dan Kawi sesuai paugeran (kaidah):
@@ -25,6 +25,7 @@ Aplikasi standar dan alat bantu digital untuk konversi serta pemahaman tata tuli
 *   **Morfologi Jawa (Kata Berimbuhan)** — Generator *tembung andhahan* (kata berimbuhan) otomatis berbasis *ater-ater* dan *panambang*.
 *   **Pitutur Aksara Jawa** — Koleksi falsafah dan pesan bijak Jawa yang disajikan dalam 3 tata tulis aksara sekaligus.
 *   **Uji Imbuhan (Afiksasi) Sriwedari & KBJ** — Laboratorium visual afiksasi kata dasar dengan gabungan awalan/akhiran Jawa.
+*   **Eksplorasi Aksara Jawa, JGST & IPA** — Aplikasi huruf Latin sebagai panduan pengetikan harmonis 5 tata tulis aksara Jawa.
 
 ### 2. 🎯 Permainan Edukatif Aksara Jawa
 Rangkaian gim interaktif untuk melatih ingatan, ketangkasan, dan pemahaman Aksara Jawa:
