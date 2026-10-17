@@ -1,22 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+
   <!-- Beranda Utama -->
   <url>
     <loc>https://www.kandangjago.com/</loc>
     <lastmod>2026-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
-  
-  <!-- Repository / Folder Tata Tulis -->
+
+  <!-- Repository / Sub-Halaman -->
   <url>
     <loc>https://www.kandangjago.com/tata-tulis/</loc>
     <lastmod>2026-10-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
-  
-  <!-- Tambahkan blok <url> baru di bawah ini untuk repo/halaman lainnya -->
+
+  <url>
+    <loc>https://www.kandangjago.com/komparasi/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/morfologi-jawa/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/pitutur-aksara-jawa/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/uji-morfologi/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/kuis/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/kbj/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/paugeran-sriwedari/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/cara-kawi/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/harmonisasi/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/ketik-latin/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/jawa-indonesia/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
 
 </urlset>
