@@ -4,7 +4,7 @@
   <!-- Beranda Utama -->
   <url>
     <loc>https://www.kandangjago.com/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-23</lastmod>
   </url>
 
   <!-- Repository / Sub-Halaman Eksisting -->
@@ -102,6 +102,11 @@
   <url>
     <loc>https://www.kandangjago.com/tembakaksara/</loc>
     <lastmod>2026-10-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.kandangjago.com/tembak-aksara-v2/</loc>
+    <lastmod>2026-10-23</lastmod>
   </url>
 
   <url>
